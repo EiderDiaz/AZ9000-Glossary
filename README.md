@@ -26,3 +26,8 @@ Cloud computing falls into one of the following computing models. If you've been
 
 ![](https://docs.microsoft.com/en-us/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox)
 
+***
+Escalabilidad: las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
+
+Escale verticalmente para aumentar la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
+El escalado horizontal aumenta la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
