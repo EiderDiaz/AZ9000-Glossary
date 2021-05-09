@@ -5,9 +5,10 @@
 
 
 ## Tabla de contenidos
-1. [Computo en la nube](#azure)
-2. [Azure](#azure)
-3. [cloud service models](#service-models)
+1. [Introducción a los aspectos básicos de Azure](C1.md)
+2. [Conceptos fundamentales de Azure](C2.md)
+3. [Descripción de los componentes principales de la arquitectura de Azure](C3.md)
+
 
 
 ### What is cloud computing?
